@@ -23,7 +23,7 @@ cd ml-project
 Ensure you have Python 3.8+ installed. Create a virtual environment and install the necessary dependencies:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate 
 pip install -r requirements.txt
 ```
 Alternatively, you can use the Makefile command:
@@ -75,6 +75,6 @@ run monitor.ipynb file
 
 ## License
 
-Copyright © 2024, [Prasad Mahamulkar](https://github.com/prsdm).
+Copyright © 2026, [Chetanpreet Singh](https://github.com/itchetanpreet-tech).
 
 Released under the [Apache-2.0 license](LICENSE).
